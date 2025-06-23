@@ -1,5 +1,8 @@
 # Code_Goru_dev_AWS
 
+![image](https://github.com/user-attachments/assets/fa0267b4-c95d-4612-921c-f61b267ca331)
+
+
 🧠 O que é AWS CodeGuru?
 Pensa no CodeGuru como aquele amigo sincero, crítico, que olha seu código e fala:
 
